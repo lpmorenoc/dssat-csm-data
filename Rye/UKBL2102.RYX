@@ -1,0 +1,201 @@
+*EXP.DETAILS: UKBL2002AL UKBL2001FB COVER CROP EXPERIMENT IN A LONG TERM N TRIAL
+
+*GENERAL
+@PEOPLE
+Hanna Poffenbarger, Montse Salmeron, Patricia Moreno
+@ADDRESS
+Splindetop farm, University of Kentucky
+@SITE
+latitude 38.1233333333333, longitude -84.4972222222222, elevation 267
+
+*TREATMENTS                        -------------FACTOR LEVELS------------
+@N R O C TNAME.................... CU FL SA IC MP MI MF MR MC MT ME MH SM
+ 1 1 1 0 Rye N 0 year 2             1  1  1  1  1  0  1  1  0  0  0  1  1
+ 2 1 1 0 Rye N 84 year 2            1  1  2  2  1  0  1  2  0  0  0  1  1
+ 3 1 1 0 Rye N 168 year 2           1  1  3  3  1  0  1  3  0  0  0  1  1
+ 4 1 1 0 Rye N 336 year 2           1  1  4  4  1  0  1  4  0  0  0  1  1
+
+*CULTIVARS
+@C CR INGENO CNAME
+ 1 RY KY0001 Aroostook
+
+*FIELDS
+@L ID_FIELD WSTA....  FLSA  FLOB  FLDT  FLDD  FLDS  FLST SLTX  SLDP  ID_SOIL    FLNAME
+ 1 UKBL0001 KYNO2003   -99   -99   -99   -99   -99   -99  -99   -99  UKBLVTRT09 -99
+@L ...........XCRD ...........YCRD .....ELEV .............AREA .SLEN .FLWR .SLAS FLHST FHDUR
+ 1      -84.497220       38.123330     267.0               -99   -99   -99   -99   -99   -99
+
+*SOIL ANALYSIS
+@A SADAT  SMHB  SMPX  SMKE SANAME
+ 1 21283 SA011 SA007 SA013 N 0
+@A  SABL  SADM  SAOC  SANI SAPHW SAPHB  SAPX  SAKE  SASC
+ 1     5   1.3  0.98  0.10   6.0   6.8   42. 190.1 0.672
+ 1    10   1.3  0.98  0.10   6.0   6.8   42. 190.1 0.672
+ 1    15   1.3  0.98  0.10   6.0   6.8   42. 190.1 0.672
+ 1    20   1.5  0.77  0.09   6.1   6.8  42.4 162.4 0.672
+ 1    30   1.5  0.77  0.09   6.1   6.8  42.4 162.4 0.672
+ 1    40   1.5  0.38  0.06   6.1   6.8  42.4 162.4 0.361
+ 1    50   1.5  0.38  0.06   6.1   6.8  42.4 162.4 0.361
+ 1    60   1.5  0.38  0.06   6.1   6.8  42.4 162.4 0.361
+ 1    70   1.5  0.17  0.03   6.1   6.8  42.4 162.4 0.162
+ 1    90   1.5  0.17  0.03   6.1   6.8  42.4 162.4 0.162
+ 1   120   1.5  0.11  0.03   6.1   6.8  42.4 162.4 0.105
+ 1   150   1.5  0.11  0.02   6.1   6.8  42.4 162.4 0.105
+ 1   210   1.5  0.11  0.02   6.1   6.8  42.4 162.4 0.105
+@A SADAT  SMHB  SMPX  SMKE SANAME
+ 2 21283 SA011 SA007 SA013 N 84
+@A  SABL  SADM  SAOC  SANI SAPHW SAPHB  SAPX  SAKE  SASC
+ 2     5   1.2  1.08  0.12   6.0   6.8  31.5 150.6 0.672
+ 2    10   1.2  1.08  0.12   6.0   6.8  31.5 150.6 0.672
+ 2    15   1.2  1.08  0.12   6.0   6.8  31.5 150.6 0.672
+ 2    20   1.4  0.80  0.09   6.1   6.8  35.5 123.0 0.672
+ 2    30   1.4  0.80  0.09   6.1   6.8  35.5 123.0 0.672
+ 2    40   1.4  0.38  0.06   6.1   6.8  35.5 123.0 0.361
+ 2    50   1.4  0.38  0.06   6.1   6.8  35.5 123.0 0.361
+ 2    60   1.4  0.38  0.06   6.1   6.8  35.5 123.0 0.361
+ 2    70   1.4  0.23  0.03   6.1   6.8  35.5 123.0 0.219
+ 2    90   1.4  0.23  0.03   6.1   6.8  35.5 123.0 0.219
+ 2   120   1.4  0.15  0.02   6.1   6.8  35.5 123.0 0.143
+ 2   150   1.4  0.15  0.02   6.1   6.8  35.5 123.0 0.143
+ 2   210   1.4  0.15  0.02   6.1   6.8  35.5 123.0 0.143
+@A SADAT  SMHB  SMPX  SMKE SANAME
+ 3 21283 SA011 SA007 SA013 N 168
+@A  SABL  SADM  SAOC  SANI SAPHW SAPHB  SAPX  SAKE  SASC
+ 3     5   1.3  1.14  0.12   5.8   6.6  35.8 145.6 0.672
+ 3    10   1.3  1.14  0.12   5.8   6.6  35.8 145.6 0.672
+ 3    15   1.3  1.14  0.12   5.8   6.6  35.8 145.6 0.672
+ 3    20   1.4  0.91  0.09   6.0   6.8  44.6 112.3 0.672
+ 3    30   1.4  0.91  0.09   6.0   6.8  44.6 112.3 0.672
+ 3    40   1.4  0.36  0.06   6.0   6.8  44.6 112.3 0.299
+ 3    50   1.4  0.36  0.06   6.0   6.8  44.6 112.3 0.299
+ 3    60   1.4  0.36  0.06   6.0   6.8  44.6 112.3 0.299
+ 3    70   1.4  0.18  0.03   6.0   6.8  44.6 112.3 0.149
+ 3    90   1.4  0.18  0.03   6.0   6.8  44.6 112.3 0.149
+ 3   120   1.4  0.12  0.02   6.0   6.8  44.6 112.3 0.100
+ 3   150   1.4  0.12  0.02   6.0   6.8  44.6 112.3 0.100
+ 3   210   1.4  0.12  0.02   6.0   6.8  44.6 112.3 0.100
+@A SADAT  SMHB  SMPX  SMKE SANAME
+ 4 21283 SA011 SA007 SA013 N 336
+@A  SABL  SADM  SAOC  SANI SAPHW SAPHB  SAPX  SAKE  SASC
+ 4     5   1.3  1.26  0.12   6.4   6.9  36.3 143.5 0.672
+ 4    10   1.3  1.26  0.12   6.4   6.9  36.3 143.5 0.672
+ 4    15   1.3  1.26  0.12   6.4   6.9  36.3 143.5 0.672
+ 4    20   1.5  0.86  0.09   6.5   6.9  38.3 104.1 0.672
+ 4    30   1.5  0.86  0.09   6.5   6.9  38.3 104.1 0.672
+ 4    40   1.5  0.39  0.06   6.5   6.9  38.3 104.1 0.324
+ 4    50   1.5  0.39  0.06   6.5   6.9  38.3 104.1 0.324
+ 4    60   1.5  0.39  0.06   6.5   6.9  38.3 104.1 0.324
+ 4    70   1.5  0.22  0.03   6.5   6.9  38.3 104.1 0.183
+ 4    90   1.5  0.22  0.03   6.5   6.9  38.3 104.1 0.183
+ 4   120   1.5  0.15  0.02   6.5   6.9  38.3 104.1 0.125
+ 4   150   1.5  0.15  0.02   6.5   6.9  38.3 104.1 0.125
+ 4   210   1.5  0.15  0.02   6.5   6.9  38.3 104.1 0.125
+
+*INITIAL CONDITIONS
+@C   PCR ICDAT  ICRT  ICND  ICRN  ICRE  ICWD ICRES ICREN ICREP ICRIP ICRID ICNAME
+ 1    MZ 21283   779   -99   1.0     1   -99   -99  0.31   -99     0     0 N 0
+@C  ICBL  SH2O  SNH4  SNO3
+ 1     5 0.263   0.4   3.5
+ 1    10 0.263   0.4   3.5
+ 1    15 0.263   0.4   3.5
+ 1    20 0.330   0.6   1.4
+ 1    30 0.330   0.6   1.4
+ 1    40 0.365   0.1   3.3
+ 1    50 0.365   0.1   3.3
+ 1    60 0.365   0.1   3.3
+ 1    70 0.363   0.1   3.3
+ 1    90 0.363   0.1   3.3
+ 1   120 0.363   0.1   3.3
+ 1   150 0.363   0.1   3.3
+ 1   210 0.363   0.1   3.3
+@C   PCR ICDAT  ICRT  ICND  ICRN  ICRE  ICWD ICRES ICREN ICREP ICRIP ICRID ICNAME
+ 2    MZ 21283  1421   -99   1.0     1   -99   -99  0.37   -99     0     0 N 84
+@C  ICBL  SH2O  SNH4  SNO3
+ 2     5 0.268   0.5   4.1
+ 2    10 0.268   0.5   4.1
+ 2    15 0.268   0.5   4.1
+ 2    20 0.305   0.4   1.3
+ 2    30 0.305   0.4   1.3
+ 2    40 0.327   0.5   0.8
+ 2    50 0.327   0.5   0.8
+ 2    60 0.327   0.5   0.8
+ 2    70 0.325   0.5   0.8
+ 2    90 0.325   0.5   0.8
+ 2   120 0.325   0.5   0.8
+ 2   150 0.325   0.5   0.8
+ 2   210 0.325   0.5   0.8
+@C   PCR ICDAT  ICRT  ICND  ICRN  ICRE  ICWD ICRES ICREN ICREP ICRIP ICRID ICNAME
+ 3    MZ 21283  1543   -99   1.0     1   -99   -99  0.37   -99     0     0 N 168
+@C  ICBL  SH2O  SNH4  SNO3
+ 3     5 0.303   0.7   4.5
+ 3    10 0.303   0.7   4.5
+ 3    15 0.303   0.7   4.5
+ 3    20 0.362   3.0   2.9
+ 3    30 0.362   3.0   2.9
+ 3    40 0.343   0.6   1.3
+ 3    50 0.343   0.6   1.3
+ 3    60 0.343   0.6   1.3
+ 3    70 0.342   0.6   1.3
+ 3    90 0.342   0.6   1.3
+ 3   120 0.342   0.6   1.3
+ 3   150 0.342   0.6   1.3
+ 3   210 0.342   0.6   1.3
+@C   PCR ICDAT  ICRT  ICND  ICRN  ICRE  ICWD ICRES ICREN ICREP ICRIP ICRID ICNAME
+ 4    MZ 21283  2004   -99   1.0     1   -99   -99  0.65   -99     0     0 N 336
+@C  ICBL  SH2O  SNH4  SNO3
+ 4     5 0.306   1.8   9.0
+ 4    10 0.306   1.8   9.0
+ 4    15 0.306   1.8   9.0
+ 4    20 0.342   0.6   8.2
+ 4    30 0.342   0.6   8.2
+ 4    40 0.354   0.7   5.1
+ 4    50 0.354   0.7   5.1
+ 4    60 0.354   0.7   5.1
+ 4    70 0.352   0.7  10.2
+ 4    90 0.352   0.7  10.2
+ 4   120 0.352   0.7  10.2
+ 4   150 0.352   0.7  10.2
+ 4   210 0.352   0.7  10.2
+
+*PLANTING DETAILS
+@P PDATE EDATE  PPOP  PPOE  PLME  PLDS  PLRS  PLRD  PLDP  PLWT  PAGE  PENV  PLPH  SPRL                        PLNAME
+ 1 21287   -99 317.0   -99     S     R  15.0    90   5.0   67.   -99   -99   -99   -99                        -99
+
+*FERTILIZERS (INORGANIC)
+@F FDATE  FMCD  FACD  FDEP  FAMN  FAMP  FAMK  FAMC  FAMO  FOCD FERNAME
+ 1 21287 FE400 AP003     0     0     0    28   -99   -99   -99 -99
+
+*RESIDUES AND ORGANIC FERTILIZER
+@R RDATE  RCOD  RAMT  RESN  RESP  RESK  RINP  RDEP  RMET RENAME
+ 1 21283 RE203  3895  0.31   -99   -99   -99   -99   -99 N 0
+ 2 21283 RE203  7105  0.37   -99   -99   -99   -99   -99 N 84
+ 3 21283 RE203  7715  0.37   -99   -99   -99   -99   -99 N 168
+ 4 21283 RE203 10022  0.65   -99   -99   -99   -99   -99 N 336
+
+*HARVEST DETAILS
+@H HDATE  HSTG  HCOM HSIZE   HPC  HBPC HNAME
+ 1 22125 GS000   -99   -99   -99   -99 -99
+
+*SIMULATION CONTROLS
+@N GENERAL     NYERS NREPS START SDATE RSEED SNAME.................... SMODEL  
+ 1 GE              1     1     S 21283  2150 DEFAULT SIMULATION CONTR          
+@N OPTIONS     WATER NITRO SYMBI PHOSP POTAS DISES  CHEM  TILL   CO2
+ 1 OP              Y     Y     N     N     N     N     N     Y     M
+@N METHODS     WTHER INCON LIGHT EVAPO INFIL PHOTO HYDRO NSWIT MESOM MESEV MESOL
+ 1 ME              M     M     E     R     S     C     R     1     P     R     2
+@N MANAGEMENT  PLANT IRRIG FERTI RESID HARVS
+ 1 MA              R     R     R     R     R
+@N OUTPUTS     FNAME OVVEW SUMRY FROPT GROUT CAOUT WAOUT NIOUT MIOUT DIOUT VBOSE CHOUT OPOUT FMOPT
+ 1 OU              N     Y     Y     1     Y     Y     Y     Y     Y     N     Y     N     Y     A
+@  AUTOMATIC MANAGEMENT
+@N PLANTING    PFRST PLAST PH2OL PH2OU PH2OD PSTMX PSTMN
+ 1 PL          20001 20001    40   100    30    40    10
+@N IRRIGATION  IMDEP ITHRL ITHRU IROFF IMETH IRAMT IREFF
+ 1 IR             30    50   100 GS000 IR001    10  1.00
+@N NITROGEN    NMDEP NMTHR NAMNT NCODE NAOFF
+ 1 NI             30 50.00    25 FE001 GS000
+@N RESIDUES    RIPCN RTIME RIDEP
+ 1 RE            100     1    20
+@N HARVEST     HFRST HLAST HPCNP HPCNR
+ 1 HA            -99 02001   100     0
+
